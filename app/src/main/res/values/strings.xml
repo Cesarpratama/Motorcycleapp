@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Motorcycle</string>
+
+    <string name="Motorcycle_name">Motorcycle</string>
+    <string name="description">Deskripsi</string>
+    <string name="more" />
+    <string name="content_description_more" />
+    <string-array name="data_name">
+        <item>SCOOTER</item>
+        <item>CUB</item>
+        <item>SPORT</item>
+        <item>NAKED</item>
+        <item>CRUISER</item>
+        <item>SPORT TOURER</item>
+        <item>ENDURO</item>
+        <item>TRAIL</item>
+        <item>ATV</item>
+        <item>THREE WHEELERS</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>"1.Scooter
+
+Jenis Motor yang pertama adalah scooter atau sekuter. Jenis motor ini salah satu jenis motor yang sangat populer di Indonesia. Umumnya skuter yang ada di Indonesia memiliki transmisi otomatis. Padahal di awal kehadirannya, skuter merupakan jenis motor yang berbentuk kecil dengan mesin 2 tak.
+
+Skuter biasanya digunakan pada daerah-daerah yang cenderung memiliki jalan aspal halus seperti di perkotaan. Skuter biasanya memiliki mesin dengan kapasitas kecil sehingga kurang cocok digunakan untuk ngebut."</item>
+   <item>"2. CUB
+
+CUB atau bebek mungkin lebih dulu dikenal di Indonesia. Motor ini memiliki ciri khas bentuk rangkanya yang melengkung ke atas seperti leher bebek. Motor ini sangat populer di Jepang. Desain yang diterapkan pada motor ini sangat memudahkan para wanita yang menggunakan rok agar mudah dalam mengendarainya.
+
+Sama seperti skuter, motor ini memiliki kapastitas mesin yang tidak terlalu besar. Namun, di Indonesia justru motor bebek digunakan sebagai motor dalam ajang balap, tentunya dengan melakukan perubahan-perubahan dari sektor mesin dan lain sebagainya."</item>
+    <item>"3. Sport
+
+Selanjutnya yaitu jenis motor sport atau yang lebih dikenal dengan motor balap. Memang motor ini identik dengan desain bodinya yang sangat aero dinamis. Desain bodi tersebut biasanya digunakan dalam ajang balap motor agar membuat aliran angin lebih lancar dan tidak menghambat laju dari motor.
+
+Biasanya motor jenis ini memiliki kapasitas mesin yang cukup besar. Namun saat ini telah banyak motor sport yang digunakan di jalanan umum tentu dengan performa mesin yang dibatasi."</item>
+    <item>"4. Naked
+
+Bentuk dari motor jenis naked sebenarnya mirip dengan motor sport tanpa adanya tambahan body berupa firing. Memang motor ini biasanya digunakan di daerah kota-kota sebagai motor harian. Selain itu dari segi posisi berkendara juga lebih nyaman dan tidak membungkuk seperti motor sport."</item>
+    <item>"5. Cruiser
+
+Jenis motor ini biasanya memiliki bentuk yang besar dan posisi berkendara yang sangat nyaman. Motor ini umumnya digunakan untuk keperluan berkendara jarak jauh. Kapasitas mesin yang ada pada jenis motor ini dapat dikatakan sangat besar dan lebi cocok digunakan pada jalanan aspal yang cukup lebar."</item>
+    <item>"6. Sport Tourer
+
+Motor ini juga memiliki fungsi untuk perjalanan jauh layaknya cruiser. Yang cukup membedakan adalah bentuk dari motor ini yang lebih mirip dengan motor sport. Namun motor ini memiliki ukuran yang lebih lebar dan terkadang dilengkapi dengan kotak khusus untuk menyimpan barang bawaan selama perjalanan panjang, baik itu pakaian hingga bahan makanan."</item>
+    <item>"7. Enduro
+
+Motor berjenis endure biasanya lebih familiar disebut dengan motocross. Motor ini sebenarnya lebih diperuntukkan untuk digunakan pada berbagai jenis jalanan baik aspal maupun tanah berbatu.
+
+Motor jenis ini biasanya digunakan pada event balap di gurun dengan jarak ratusan kilometer yang memang membutuhkan motor segala medan dan ketahanan mesin yang sangat baik."</item>
+    <item>"8. Trail
+
+Tidak seperti yang umunya diketahui, sebenarnya motor trial berbeda dengan jenis motocross. Motor ini dirancang untuk digunakan melawati jalanan berbatu dan rintangan khusus yang terkadang harus dilalui dengan cara melompat antar batuan.
+
+Bentuk dari motor ini sangat ramping dan berbobot ringan. Selain itu motor ini dirancang tidak memiliki kursi untuk duduk karena memang pengendara motor ini harus berdiri agar lincah dalam melewati berbagai rintangan."</item>
+    <item>"9. ATV
+
+Motor ini merupakan jenis motor yang memiliki roda berjumlah 4 buah. Motor ini biasanya digunakan di area yang berbatu atau jalanan berlumpur. Memang jenis motor ini tidak lazim dikendarai di jalanan umum.
+
+Biasanya motor ini digunakan untuk membawa barang yang cukup banyak ke are yang tidak bisa dilalui mobil, karena walaupun motor ini memiliki roda berjumlah 4 namun tetap didesain seramping mungkin."</item>
+    <item>"10. Three Wheelers
+
+Model motor ini cukup terlihat unik karena memiliki dua roda di bagian depan dan satu roda dibagian depan. Hal ini dimaksudkan agar pengendara merasa lebih nyaman dan aman saat melakukan tikungan. Dan uniknya, roda bagian depan ini akan bergerak miring segaris dengan kemiringan dari motor yang dikendarai."</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/scoter1_vespa</item>
+        <item>@drawable/cub2_honda</item>
+        <item>@drawable/sport3_kawasaki</item>
+        <item>@drawable/naked4_yamahamt</item>
+        <item>@drawable/cruiser5_bike</item>
+        <item>@drawable/sporttourer6_yamaha</item>
+        <item>@drawable/enduro7_honda</item>
+        <item>@drawable/trail8_klx</item>
+        <item>@drawable/atv8_mtc</item>
+        <item>@drawable/threewhell10_mtc</item>
+    </integer-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_transform">Transform</string>
+    <string name="menu_reflow">Reflow</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="lorem_ipsum_title">Lorem Ipsum"</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply placeholder text of the printing and
+        typesetting industry. Lorem Ipsum has been the industry\'s standard placeholder text ever
+        since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
+        type specimen book"
+    </string>
+    <string name="fab_content_description">Represents a view to invoke an action</string>
+    <string name="image_view_item_transform_content_description">Represents an image view in the
+        item
+    </string>
+</resources>
